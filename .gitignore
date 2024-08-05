@@ -1,5 +1,10 @@
+#
 # Los items que empiecen con ! (signo de cierre de exclamación) NO serán ignorados
 # a pesar que su extensión se encuentre en la lista de ignorados
+# Para incluir carpetas enteras a ser ignoradas:
+#   carpera/*
+#
+#
 ###############################################################################
 # Temporales trabajo #
 # CAD 
