@@ -1,3 +1,5 @@
+# Los items que empiecen con ! (signo de cierre de exclamación) NO serán ignorados
+# a pesar que su extensión se encuentre en la lista de ignorados
 ###############################################################################
 # Temporales trabajo #
 # CAD 
